@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/9fa0d164-de6d-4923-8b4b-73ce48a7f343)
 
-# Table of Contents
+# 📊 Table of Contents
 
 1. [Introduction](#a-web-automation-project-using)
 2. [🖥️ Features](#️-features)
