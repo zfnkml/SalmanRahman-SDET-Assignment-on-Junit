@@ -1,8 +1,27 @@
-# Selenium Web Automation Project
+# Table of Contents
+
+1. [Introduction](#a-web-automation-project-using)
+2. [🖥️ Features](#️-features)
+3. [🧪 Test Cases Overview](#-test-cases-overview)
+   - [1. `Q1_DigitalUnite`](#1-q1_digitalunite)
+   - [2. `Q2_wpEverest`](#2-q2_wpeverest)
+   - [3. `Q3_dsebd`](#3-q3_dsebd)
+4. [🔒 Prerequisites](#-prerequisites)
+5. [🚀 Project Setup](#-project-setup)
+6. [🏗️ Directory Structure](#️-directory-structure)
+7. [🔨 Configuration](#-configuration)
+   - [`build.gradle`](#buildgradle)
+   - [`MyUtils`](#myutils)
+8. [🏷️ Known Issues](#️known-issues)
+
+
+# A Web Automation Project using ...
+
+![image](https://github.com/user-attachments/assets/9fa0d164-de6d-4923-8b4b-73ce48a7f343)
 
 This project contains three test classes that automate various tasks using Selenium WebDriver with Java. Each class demonstrates a unique use case for web automation, including form submission, data scraping, and file handling.
 
-## Features
+## 🖥️ Features
 
 - **Automated Form Filling and Validation**
     - Tests the form-filling process on two different websites.
@@ -14,7 +33,7 @@ This project contains three test classes that automate various tasks using Selen
 - **Headless Browser Support**
     - Demonstrates scraping in a headless browser environment.
 
-## Test Cases Overview
+## 🧪 Test Cases Overview
 
 ### 1. `Q1_DigitalUnite`
 
@@ -71,7 +90,7 @@ void scrapData_htmlTable_textFile()
 
 ```
 
-## Prerequisites
+## 🔒 Prerequisites
 
 1. **Java Development Kit (JDK)**
     
@@ -93,7 +112,7 @@ void scrapData_htmlTable_textFile()
     - JUnit 5
     - Any required utilities for file handling or browser-specific configurations.
 
-## Project Setup
+## 🚀 Project Setup
 
 1. Clone the repository:
     
@@ -117,7 +136,7 @@ void scrapData_htmlTable_textFile()
     ```
     
 
-## Directory Structure
+## 🏗️ Directory Structure
 
 ```
 src/
@@ -135,7 +154,7 @@ src/
 
 ```
 
-## Configuration
+## 🔨 Configuration
 
 ### `build.gradle`
 
@@ -154,7 +173,7 @@ dependencies {
 - Custom Utility Class
 - Includes helper methods for tasks like scrolling, waiting, and handling repetitive actions.
 
-## Known Issues
+## 🏷️Known Issues
 
 - **File Path Configuration:**
     
