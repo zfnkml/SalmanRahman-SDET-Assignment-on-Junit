@@ -55,6 +55,11 @@ Automates a form submission process on the [Digital Unite Practice Form](https:/
 void digitalUnite_formFillUp_confirmationMessage()
 ```
 
+### Gradle Report:
+
+![image](https://github.com/user-attachments/assets/5898edcc-c1e2-4881-a106-edee0f4fa247)
+
+
 ### 2. `Q2_wpEverest`
 
 Automates the registration process on the [WP Everest Guest Registration Form](https://demo.wpeverest.com/user-registration/guest-registration-form/).
@@ -74,6 +79,10 @@ void wpEverestFormFillUp_confirmationMessage()
 
 ```
 
+### Gradle Report:
+
+![image](https://github.com/user-attachments/assets/46c792be-e5fa-4378-a7c1-e219a0d88697)
+
 ### 3. `Q3_dsebd`
 
 Scrapes table data from the [DSEBD Latest Share Price](https://dsebd.org/latest_share_price_scroll_by_value.php) page.
@@ -91,6 +100,11 @@ Scrapes table data from the [DSEBD Latest Share Price](https://dsebd.org/latest_
 void scrapData_htmlTable_textFile()
 
 ```
+
+### Gradle Report:
+
+![image](https://github.com/user-attachments/assets/ebbb4467-9e22-4f2a-8b2c-60cdb0208c49)
+
 
 ## 🔒 Prerequisites
 
