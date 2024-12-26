@@ -1,3 +1,7 @@
+# A Web Automation Project using ...
+
+![image](https://github.com/user-attachments/assets/9fa0d164-de6d-4923-8b4b-73ce48a7f343)
+
 # Table of Contents
 
 1. [Introduction](#a-web-automation-project-using)
@@ -14,10 +18,7 @@
    - [`MyUtils`](#myutils)
 8. [🏷️ Known Issues](#️known-issues)
 
-
-# A Web Automation Project using ...
-
-![image](https://github.com/user-attachments/assets/9fa0d164-de6d-4923-8b4b-73ce48a7f343)
+---
 
 This project contains three test classes that automate various tasks using Selenium WebDriver with Java. Each class demonstrates a unique use case for web automation, including form submission, data scraping, and file handling.
 
