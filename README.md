@@ -18,9 +18,10 @@
    - [`MyUtils`](#myutils)
 8. [🏷️ Known Issues](#️known-issues)
 
----
 
 This project contains three test classes that automate various tasks using Selenium WebDriver with Java. Each class demonstrates a unique use case for web automation, including form submission, data scraping, and file handling.
+
+---
 
 ## 🖥️ Features
 
