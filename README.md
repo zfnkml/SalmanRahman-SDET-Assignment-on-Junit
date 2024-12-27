@@ -1,6 +1,6 @@
 # A Web Automation Project using ...
 
-![image](https://github.com/user-attachments/assets/9fa0d164-de6d-4923-8b4b-73ce48a7f343)
+![image](https://github.com/user-attachments/assets/731a63db-cf3f-4552-baf6-22236d06f4c9)
 
 # 📊 Table of Contents
 
